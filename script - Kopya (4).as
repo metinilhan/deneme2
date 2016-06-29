@@ -31,7 +31,7 @@ public class script extends Sprite
         _starling.start();
     }
 }
-	
+	buuuuDosya DEğiştirilidi
 	
 }
 >>>>>>> origin/master
