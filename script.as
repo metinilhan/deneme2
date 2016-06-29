@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿package  {
 	
 import flash.display.Sprite;
@@ -13,7 +13,7 @@ public class script extends Sprite
         _starling.start();
     }
 }
-	
+	Bu kodu falana filan
 	
 }
 =======
